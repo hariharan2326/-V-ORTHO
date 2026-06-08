@@ -1,0 +1,6 @@
+{
+  "name": "V Ortho",
+  "description": "Book trusted doctors and manage appointments from your phone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
